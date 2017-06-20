@@ -1,0 +1,22 @@
+{
+  "name": "nodeprojects",
+  "version": "1.0.0",
+  "description": "Fluent Node projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "testme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlWJohnson/FluentNodeProject.git"
+  },
+  "keywords": [
+    "FluentNodeProject"
+  ],
+  "author": "CWJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlWJohnson/FluentNodeProject/issues"
+  },
+  "homepage": "https://github.com/CarlWJohnson/FluentNodeProject#readme"
+}
